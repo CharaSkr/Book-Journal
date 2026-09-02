@@ -10,7 +10,7 @@ function NavBar() {
       <nav>
         <ul className="flex gap-6">
           <li>
-            <Link to="/dashboard">Dashboard1</Link>  
+            <Link to="/dashboard">Dashboard</Link>  
           </li>
 
           <li>
