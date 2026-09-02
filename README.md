@@ -1,16 +1,25 @@
-# React + Vite
+# 📚 Book Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and intuitive **Book Journal** application for keeping track of your reading journey.
 
-Currently, two official plugins are available:
+Users can organize their books, keep track of their reading progress, and maintain a personal collection in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* 📖 Add and manage books
+* 🔍 Search and find books easily
+* 📝 Keep track of reading information
+* ⭐ Rate and review books
+* 📚 Organize your personal book collection
+* 📊 Track your reading progress
+* 💻 Responsive and user-friendly interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* **React**
+* **JavaScript**
+* **Vite**
+* **Tailwind CSS**
+* **React Router**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
