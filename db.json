@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "status": "read",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "status": "reading",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "status": "to-read",
+      "rating": 0
+    },
+    {
+      "id": "4",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "status": "read",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "status": "read",
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "status": "to-read",
+      "rating": 0
+    },
+    {
+      "id": "7",
+      "title": "1984",
+      "author": "George Orwell",
+      "status": "read",
+      "rating": 5
+    },
+    {
+      "id": "8",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "status": "to-read",
+      "rating": 0
+    },
+    {
+      "id": "9",
+      "title": "Verity",
+      "author": "Colleen Hoover",
+      "status": "reading",
+      "rating": 4
+    },
+    {
+      "id": "10",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "status": "read",
+      "rating": 5
+    },
+    {
+      "id": "11",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "status": "read",
+      "rating": 4
+    },
+    {
+      "id": "12",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "status": "to-read",
+      "rating": 0
+    },
+    {
+      "id": "13",
+      "title": "Daisy Jones & The Six",
+      "author": "Taylor Jenkins Reid",
+      "status": "reading",
+      "rating": 4
+    },
+    {
+      "id": "14",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "status": "read",
+      "rating": 5
+    },
+    {
+      "id": "15",
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "status": "to-read",
+      "rating": 0
+    }
+  ]
+}
