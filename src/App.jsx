@@ -4,6 +4,7 @@ import MainLayout from "./layouts/MainLayout";
 import LandingPage from "./pages/LandingPage";
 import Dashboard from "./pages/Dashboard";
 import Books from "./pages/Books";
+import BookDetails from "./pages/BookDetails";
 import Statistics from "./pages/Statistics";
 import Login from "./pages/Login";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -18,6 +19,7 @@ function App() {
         <Route element={<ProtectedRoute />}>
           <Route path="dashboard" element={<Dashboard />} />
           <Route path="books" element={<Books />} />
+          <Route path="books/:id" element={<BookDetails />} />
           <Route path="statistics" element={<Statistics />} />
         </Route>
       </Route>
