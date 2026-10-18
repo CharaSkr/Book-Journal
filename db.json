@@ -5,7 +5,8 @@
       "title": "The Midnight Library",
       "author": "Matt Haig",
       "status": "read",
-      "rating": 5
+      "rating": 5,
+      "dateFinished": "2026-02-15"
     },
     {
       "id": "2",
@@ -26,14 +27,16 @@
       "title": "The Seven Husbands of Evelyn Hugo",
       "author": "Taylor Jenkins Reid",
       "status": "read",
-      "rating": 5
+      "rating": 5,
+      "dateFinished": "2026-03-28"
     },
     {
       "id": "5",
       "title": "It Ends with Us",
       "author": "Colleen Hoover",
       "status": "read",
-      "rating": 4
+      "rating": 4,
+      "dateFinished": "2026-09-01"
     },
     {
       "id": "6",
@@ -47,7 +50,8 @@
       "title": "1984",
       "author": "George Orwell",
       "status": "read",
-      "rating": 5
+      "rating": 5,
+      "dateFinished": "2026-08-08"
     },
     {
       "id": "8",
@@ -68,14 +72,16 @@
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "status": "read",
-      "rating": 5
+      "rating": 5,
+      "dateFinished": "2026-05-28"
     },
     {
       "id": "11",
       "title": "The Alchemist",
       "author": "Paulo Coelho",
       "status": "read",
-      "rating": 4
+      "rating": 4,
+      "dateFinished": "2026-01-15"
     },
     {
       "id": "12",
@@ -96,7 +102,8 @@
       "title": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "status": "read",
-      "rating": 5
+      "rating": 5,
+      "dateFinished": "2026-06-16"
     },
     {
       "id": "15",
